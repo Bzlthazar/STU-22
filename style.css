@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+body {
+    position: relative;
+    background-color: #181a1b;
+    margin: 5px;
+}
+
+header {
+    height: 50px;
+    background-color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Fixed Scrolling Socials Block */
+
+.socials {
+    background-color: orange;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 14px 16px;
+}
+
+.socials:hover {
+    color: #111;
+}
+
+.socials {
+    float: right;
+}
