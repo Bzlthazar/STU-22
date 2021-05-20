@@ -10,9 +10,13 @@ body {
     margin: 5px;
 }
 
+/* Navigation Pane */
+
 header {
     height: 50px;
     background-color: orange;
+
+    border-bottom: 5px solid red;    
 }
 
 a {
